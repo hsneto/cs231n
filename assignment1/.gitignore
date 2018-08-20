@@ -1,0 +1,8 @@
+*.swp
+*.pyc
+.env/*
+
+# Folders
+.ipynb_checkpoints/*
+cs231n/__pycache__/*
+cs231n/classifiers/__pycache__/*

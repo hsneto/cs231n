@@ -1,4 +1,4 @@
-# CS231n: Convolutional Neural Networks for Visual Recognition 
+# CS231n: Convolutional Neural Networks for Visual Recognition - Spring 2018
 
 ![image](https://github.com/hsneto/cs231n/blob/master/cs231n-page.png)
 
